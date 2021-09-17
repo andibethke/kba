@@ -1,0 +1,36 @@
+Grundlagen der Programmierlogik - Inhouseschulung 
+
+
+
+Ihr gewünschter Schulungsinhalt
+
+Zahlensysteme
+Definition von Begriffen
+Programmiersprachen
+strukturiert / objektorientiert
+compiliert / interpretiert
+Byte-Code / JDK
+Grundlegende Sprachelemente (Überblick)
+Konstanten, Variablen, Operanten
+Kontroll- und Datenstrukturen
+Einsatzfelder (Überblick)
+Web-App
+Web-Service
+Responsives design
+Security
+ISO/Osi-Modell
+Anforderungsanalyse
+UML (z. B. use-case-Diagramme)
+Software-Entwurf
+UML (z. B. Klassen-, Deploymentdiagramme)
+Schnittstellenformate
+HTML
+XML/XSD
+Datenbanken
+OLTP
+DWH
+IDE zur objektorientierten SW-Entwicklung
+Eclipse
+Software-Testing
+Testautomatisierung
+Übungsaufgaben
