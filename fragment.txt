@@ -1,0 +1,19 @@
+public void eingabe(String zeichen) {
+		String tmp="";
+		boolean gefunden=false;
+		String geheimeWortGROSS=geheimesWort.toUpperCase();
+		String zeichenGROSS=zeichen.toUpperCase();
+		for (int i = 0; i < geheimesWort.length(); i++) {
+			if (geheimeWortGROSS.charAt(i)==zeichenGROSS.charAt(0)) {
+				tmp+=geheimesWort.charAt(i);
+				gefunden=true;
+			}
+			else {
+				tmp+=anzeige.charAt(i);
+			}
+		}
+		anzeige=tmp;
+		if (!gefunden) {
+			anzahlFehler++;
+		}
+	}
